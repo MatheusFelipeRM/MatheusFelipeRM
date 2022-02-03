@@ -2,7 +2,6 @@
 
 - 🔭 Hoje estudo front-end
 - 🌱 Estudando Javascript
-- 📫 Contate-me no email: matheusfelipem2712@gmail.com
 - 😄 Pronouns: ele/dele
 
 
