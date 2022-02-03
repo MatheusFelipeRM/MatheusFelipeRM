@@ -1,7 +1,5 @@
 ### Olá, Eu sou Matheus Felipe 👾
 
-Here are some ideas to get you started:
-
 - 🔭 Hoje estudo front-end
 - 🌱 Estudando Javascript
 - 📫 Contate-me no email: matheusfelipem2712@gmail.com
