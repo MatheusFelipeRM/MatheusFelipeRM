@@ -27,3 +27,8 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/https://www.instagram.com/matheusfellypi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
   </div>
+    <div align="center">
+  
+  ![Snake animation](https://github.com/MatheusFelipeRM/MatheusFelipeRM/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
