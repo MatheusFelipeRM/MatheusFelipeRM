@@ -1,5 +1,5 @@
 <img src="header_.png"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Oi+meu+nome+é+Matheus+Felipe;+E+Esse+é+meu!;GitHub)](https://git.io/typing-svg)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 
 
